@@ -1,0 +1,6 @@
+Id,Sku,Quantity,OrderStatus,Location,OrderedBy,OrderedAt
+5,TULIP,10,pending,001,Jaiden,11/09/2025 17:05:01
+4,IRIS,10,pending,003,Jaiden,11/09/2025 17:00:33
+3,LILLY,10,pending,003,Jaiden,11/09/2025 16:54:02
+2,LILLY,10,pending,002,Jaiden,11/09/2025 16:43:46
+1,DAISY,10,pending,001,Jaiden,11/09/2025 16:33:56

@@ -1,0 +1,4 @@
+StoreNumber,StoreName,Address,TotalAudits,TotalOrders,TotalQuantity,DateFrom,DateTo,PendingOrders,FulfilledOrders
+001,Home Depot 123,"123 Main Street, Downtown",3,2,28,11/09/2025 16:31:06,11/09/2025 17:05:01,2,0
+002,Meijer 456,"456 Apple st, Center City",2,1,15,11/09/2025 16:43:04,11/09/2025 16:43:46,1,0
+003,Meijer 123,789 Cherry Ave,4,2,33,11/09/2025 16:54:02,11/09/2025 17:00:33,2,0
